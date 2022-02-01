@@ -1,0 +1,7 @@
+{
+  "name": "Farias SMS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

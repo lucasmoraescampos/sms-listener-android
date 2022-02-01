@@ -1,0 +1,16 @@
+{
+	"appId": "com.fariaslgx.sms",
+	"appName": "Farias SMS",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 4500,
+			"launchAutoHide": true,
+			"backgroundColor": "#000000",
+			"androidScaleType": "CENTER",
+			"splashFullScreen": false,
+			"splashImmersive": false
+		}
+	}
+}
